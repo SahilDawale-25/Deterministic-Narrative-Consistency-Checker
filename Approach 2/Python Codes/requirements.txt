@@ -1,0 +1,10 @@
+pathway[xpack-llm-docs]
+pandas
+groq
+python-dotenv
+requests
+pdf2image
+unstructured
+python-magic
+sentence-transformers
+torch
